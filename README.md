@@ -4,7 +4,7 @@ DEPARTMENT:COMPUTER SCIENCE
 
 MATRIC NUMBER:24/13958
 
-REPOSITORY URL:
+REPOSITORY URL:https://github.com/Rukyanne/hello-python
 
 Hello World Python Project
 
