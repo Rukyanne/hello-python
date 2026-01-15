@@ -1,18 +1,19 @@
-NAME:ETOHWO ANNABELLE RUKEVWE
+## NAME:ETOHWO ANNABELLE RUKEVWE
 
-DEPARTMENT:COMPUTER SCIENCE
+## DEPARTMENT:COMPUTER SCIENCE
 
-MATRIC NUMBER:24/13958
+## MATRIC NUMBER:24/13958
 
-REPOSITORY URL:https://github.com/Rukyanne/hello-python
+## REPOSITORY URL:https://github.com/Rukyanne/hello-python
 
-Hello World Python Project
 
-Description
+### Hello World Python Project
+
+#### Description
 
 This is my first Python project.It is a simple script that demonstrates how to output text to the console. The goal of this project was to learn the basics of Python syntax and how to manage a repository on GitHub.
 
-What This Program Does
+#### What This Program Does
 
 This program is a "Hello World" script. Its primary purpose is to:
 
@@ -22,7 +23,7 @@ This program is a "Hello World" script. Its primary purpose is to:
 
 3. Demonstrate Syntax: It shows how a simple line of Python code is written and how comments are used to explain what the code is doing.
 
-The Code
+#### The Code
 
 The project consists of a single file, hello_world.py, which contains the following code:
 
@@ -31,9 +32,9 @@ print("Hello, World!")
  This line tells the computer to show the message "Hello, World!" on the screen.
 
 
-How to Run the Program
+#### How to Run the Program
 
-Method 1: Using VS Code (Recommended)
+#### Method 1: Using VS Code (Recommended)
 
 Visual Studio Code (VS Code) is a great tool for writing code. To run this project:
 
@@ -52,7 +53,7 @@ Visual Studio Code (VS Code) is a great tool for writing code. To run this proje
 
 The message will appear in the "Terminal" panel at the bottom of the screen.
 
-Method 2: Using Terminal or Command Prompt
+#### Method 2: Using Terminal or Command Prompt
 
 1. Install Python: Make sure you have Python installed from python.org.
 
@@ -62,7 +63,7 @@ Method 2: Using Terminal or Command Prompt
 python hello_world.py
 
 
-What I Learned
+#### What I Learned
 
 During this project, I learned:
 
