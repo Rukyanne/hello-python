@@ -26,8 +26,9 @@ The Code
 
 The project consists of a single file, hello_world.py, which contains the following code:
 
- This line tells the computer to show the message "Hello, World!" on the screen.
 print("Hello, World!")
+
+ This line tells the computer to show the message "Hello, World!" on the screen.
 
 
 How to Run the Program
@@ -47,8 +48,7 @@ Visual Studio Code (VS Code) is a great tool for writing code. To run this proje
 5. Click Install on the one made by Microsoft.
 
 6. Run the Code:
-
-7. With hello_world.py open in the main window, click the Play button (triangle) in the top right corner.
+ With hello_world.py open in the main window, click the Play button (triangle) in the top right corner.
 
 The message will appear in the "Terminal" panel at the bottom of the screen.
 
@@ -59,7 +59,6 @@ Method 2: Using Terminal or Command Prompt
 2. Open Terminal: Navigate to the folder where you saved the file.
 
 3. Run the command: Type the following and press Enter:
-
 python hello_world.py
 
 
