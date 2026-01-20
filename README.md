@@ -13,7 +13,7 @@
 
 ##  Project Description
 
-This is my first Python project—a foundational exercise in programming. It's a simple script that demonstrates how to output text to the console using Python's `print()` function. The goal of this project was to understand basic Python syntax, learn version control with Git and GitHub, and establish good documentation practices.
+This is my first Python project, a foundational exercise in programming. It's a simple script that demonstrates how to output text to the console using Python's `print()` function. The goal of this project was to understand basic Python syntax, learn version control with Git and GitHub, and establish good documentation practices.
 
 ---
 
