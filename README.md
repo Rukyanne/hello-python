@@ -53,7 +53,7 @@ When you run this program, you'll see the following output in your terminal or c
 Hello, World!
 ```
 
-That's it! Simple but powerful—you've just told the computer to communicate with you.
+
 
 ---
 
@@ -213,21 +213,4 @@ Through this project, I gained hands-on experience with:
 
 ---
 
-## 🎓 Next Steps
-
-Now that I've mastered the basics, my next learning goals include:
-
-- Variables and data types in Python
-- User input with the `input()` function
-- Conditional statements (if/else)
-- Loops (for and while)
-- Functions and code reusability
-
----
-
-##  License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
